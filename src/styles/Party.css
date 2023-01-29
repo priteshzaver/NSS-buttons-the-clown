@@ -1,0 +1,10 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 700px;
+    border: 1px dotted white;
+}
+.label{
+    font-size: 25px;
+}

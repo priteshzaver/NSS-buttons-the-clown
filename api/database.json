@@ -1,0 +1,58 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Lollipop"
+    },
+    {
+      "id": 2,
+      "name": "Buttons"
+    }
+  ],
+  "filledReservations": [
+    {
+      "reservationId": 2,
+      "clownId": 2,
+      "timestamp": 1671205794859,
+      "id": 1
+    }
+  ],
+  "reservations": [
+    {
+      "parentName": "pinto",
+      "childName": "prim",
+      "numOfChildren": "3",
+      "address": "100 fake street",
+      "date": "2022-12-12",
+      "lengthOfParty": "2",
+      "id": 1
+    },
+    {
+      "parentName": "bindi",
+      "childName": "cinna",
+      "numOfChildren": "5",
+      "address": "101 fake street",
+      "date": "2022-12-07",
+      "lengthOfParty": "3",
+      "id": 2
+    },
+    {
+      "parentName": "lisa",
+      "childName": "milan",
+      "numOfChildren": "3",
+      "address": "102 fake street",
+      "date": "2023-01-01",
+      "lengthOfParty": "3",
+      "id": 3
+    },
+    {
+      "parentName": "milan",
+      "childName": "chandni",
+      "numOfChildren": "3",
+      "address": "103 fake street",
+      "date": "2022-01-01",
+      "lengthOfParty": "3",
+      "id": 4
+    }
+  ]
+}
